@@ -1,2 +1,2 @@
 # INFO
-This Repository is to Daily Upload code from System related to **JAVA Language**
+This Repository is to Upload code daily from System related to **JAVA Language**
