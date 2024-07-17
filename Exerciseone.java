@@ -23,7 +23,7 @@ public class Exerciseone {
 
         System.out.println("Wanna calculate CGP ? [Y = yes / N = no ]");
         String ask1 = co_string.nextLine();
-        if(ask1 == "Y" || ask1 == "y") {
+        if(ask1.equals("Y") || ask1.equals("y")) {
             float CGP = a+b+c+d+e/50;
             System.out.println(name2 + " your CGP is " + CGP);
         }
